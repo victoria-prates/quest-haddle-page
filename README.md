@@ -26,14 +26,6 @@ Variáveis CSS → Para facilitar personalizações futuras.
 │── 📄 style.css     # Estilização da página
 │── 📄 README.md     # Documentação do projeto
 
-🚀 Como Executar o Projeto
-
-Clone este repositório:
-
-git clone https://github.com/seu-usuario/projeto-landing-page.git
-
-Abra o arquivo index.html no navegador.
-
 📱 Responsividade
 
 A página foi projetada para se adaptar a diferentes dispositivos:
@@ -45,7 +37,4 @@ A página foi projetada para se adaptar a diferentes dispositivos:
 🔹 Adicionar animações sutis para uma experiência mais interativa.🔹 Implementar um formulário de contato funcional.🔹 Melhorar a acessibilidade para leitores de tela.
 
 📌 Autor
-
 👤 Victória Prates Azevêdo 
-📧 Email: victoriapratesazevedo@gmail.com
-🔗 LinkedIn: linkedin.com/in/seu-perfil
